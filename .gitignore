@@ -18,6 +18,7 @@ ios/**/xcuserdata/
 # Android
 android/.gradle/
 android/app/build/
+android/app/debug.keystore
 android/build/
 android/local.properties
 
